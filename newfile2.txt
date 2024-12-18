@@ -3,3 +3,7 @@ New line to testing and learning only
 Another line added
 
 2025 is coming.
+
+Technical and soft skills both matter in tech industry.
+Technical Skills: AWS, Python, Linux CLI, Terraform
+Soft Skills: Good understanding and speaking skills
