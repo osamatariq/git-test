@@ -3,3 +3,6 @@ New line to testing and learning only
 Another line added
 
 2025 is coming.
+
+AWS Certified Solutions Architect
+Boto3 using Python
