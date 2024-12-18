@@ -1,2 +1,3 @@
 header is wrong, fixed the header
 different payment methods
+new line to understand rebase 
