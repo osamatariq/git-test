@@ -11,3 +11,4 @@ AWS Certified Solutions Architect
 Boto3 using Python
 
 Git and GitHub course 
+Add SSH key to github for git course
