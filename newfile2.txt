@@ -9,3 +9,5 @@ Technical Skills: AWS, Python, Linux CLI, Terraform
 Soft Skills: Good understanding and speaking skills
 AWS Certified Solutions Architect
 Boto3 using Python
+
+Git and GitHub course 
